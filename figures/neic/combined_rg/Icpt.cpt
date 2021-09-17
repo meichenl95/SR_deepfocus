@@ -1,0 +1,8 @@
+-2	0/0/127@20	-1.25	blue@20
+-1.25	blue@20	0.25	cyan@20
+0.25	cyan@20	1.75	yellow@20
+1.75	yellow@20	3.25	red@20
+3.25	red@20	4	127/0/0@20
+B	black
+F	white
+N	127.5
